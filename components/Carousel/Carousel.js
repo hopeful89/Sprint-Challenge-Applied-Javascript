@@ -84,19 +84,6 @@ function buttons(){
     //     }
     //   })
 }
-buttons()
-  //   if(i + 1 < newone.length){
-  //     newone[i+1].style.display = 'inline-block';
-  //     i++
-  //     if(i === newone.length){
-  //       newone[newone.length - 1].style.display = 'inline-block'
-  //     }
-  //   }
-  // }else{
-  //   i = 0
-  // }
-// })
-
 
 
 
