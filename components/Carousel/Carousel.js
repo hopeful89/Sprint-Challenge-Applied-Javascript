@@ -84,6 +84,7 @@ function buttons(){
     //     }
     //   })
 }
+buttons()
 
 
 
